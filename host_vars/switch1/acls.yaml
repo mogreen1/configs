@@ -1,0 +1,8 @@
+acls:
+-   acls:
+    -   acl_type: extended
+        name: preauth_ipv4_acl (per-user)
+    afi: ipv4
+-   acls:
+    -   name: preauth_ipv6_acl (per-user)
+    afi: ipv6
